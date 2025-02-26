@@ -1,4 +1,3 @@
-# SuperStore-Sales
 # SuperStore Sales Analysis
 
 ## Overview
